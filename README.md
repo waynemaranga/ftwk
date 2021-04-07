@@ -1,6 +1,6 @@
 # ftwk
 
-Find tweets with keywords. That's it. [Here's the repl.it](https://replit.com/@wayneotweezy/ftwk#README.md)
+Find tweets with keywords. That's it. [Here's the repl.it](https://replit.com/@wayneotweezy/ftwk-1)
 
 Requires Twint:
 run 
